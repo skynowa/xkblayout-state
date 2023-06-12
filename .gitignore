@@ -2,3 +2,5 @@
 *.o
 xkblayout-state
 
+.project
+
